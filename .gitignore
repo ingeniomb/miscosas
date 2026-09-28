@@ -1,0 +1,22 @@
+# Credenciales y secretos
+.env
+.env.*
+secrets.h
+credentials.h
+wifi_credentials.h
+*.key
+*.pem
+
+# Arduino
+build/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# SO
+.DS_Store
+Thumbs.db
